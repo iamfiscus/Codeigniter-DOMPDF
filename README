@@ -1,0 +1,31 @@
+======================================
+DOMPDF
+
+Convert HMTL to PDF
+
+by Jd Fiscus
+======================================
+
+Hey everybody,
+
+This is a Codeigniter library where you can convert HTML output to PDF,
+using the DOMPDF library.
+
+DOCUMENTATION:
+http://code.google.com/p/dompdf/wiki/Usage
+
+INSTALLATION:
+Just copy the files from this package to the corresponding folder in your 
+application folder.  For example, copy dompdf/config/dompdf.php to 
+system/application/config/dompdf.php. 
+
+
+
+IMPORTANT:   
+In order to use the Affiliate Program (Associate Tag) you must be using PHP 5.1 or higher
+
+
+Thanks,
+-Jd Fiscus
+ jdfiscus@gmail.com
+ @iamfiscus
